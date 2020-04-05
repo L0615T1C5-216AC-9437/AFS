@@ -25,7 +25,7 @@ It should look like this
 {
   "afs":
   {
-	  "timer": 2
+    "timer": 2
   }
 }
 ```
@@ -38,7 +38,7 @@ If you have more than one mod using settings.json, it should look like this
   },
   "afs":
   {
-	  "timer": 2
+    "timer": 2
   }
 }
 ```
